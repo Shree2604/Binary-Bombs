@@ -1,6 +1,6 @@
 # Binary Bomb Repository
 
-Welcome to the Binary Bomb Repository! Here, you will find a collection of 85 challenging bombs that require your defusing skills.
+Welcome to the Binary Bomb Repository! Here, you will find a collection of  challenging bombs that require your defusing skills.
 
 **Note**: These bombs are for educational and learning purposes only. Do not attempt to use them for any harmful or malicious activities.
 
